@@ -1,12 +1,12 @@
 <?php
 
-namespace App;
+namespace App\FizzBuzzKata;
 
 class FizzBuzz
 {
     public function invoke(int $number): string
     {
-        if (1 > $number || 100 < $number) {
+        if (1 > $number || 101 <= $number) {
             return 'Invalid';
         }
         if (0 === $number % 3 && 0 === $number % 5) {
