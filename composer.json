@@ -1,6 +1,6 @@
 {
-    "name": "twmbx/fizz-buzz",
-    "description": "TDD Fizz Buzz",
+    "name": "twmbx/tdd-katas",
+    "description": "TDD Katas",
     "type": "project",
     "require-dev": {
         "phpunit/phpunit": "^9.0",
