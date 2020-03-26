@@ -15,6 +15,9 @@
         <testsuite name="fizzbuzz">
             <directory suffix="Test.php">tests/FizzBuzz</directory>
         </testsuite>
+        <testsuite name="gildedrose">
+            <directory suffix="Test.php">tests/GildedRose</directory>
+        </testsuite>
     </testsuites>
 
     <filter>

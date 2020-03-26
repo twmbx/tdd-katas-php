@@ -5,6 +5,7 @@ Using the opportunity to practice TDD, adhere to standards & flex new muscles wi
 
 ## Katas Completed
 - [FizzBuzz](src/FizzBuzzKata)
+- [GildedRose](src/GildedRoseKata)
 
 ## Tests
 **Test Everything ([PHPUnit](https://phpunit.de))**

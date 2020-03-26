@@ -29,7 +29,7 @@ class FizzBuzzTest extends TestCase
     }
 
     /**
-     * @covers \App\FizzBuzz::invoke
+     * @covers \App\FizzBuzzKata\FizzBuzz::invoke
      * @dataProvider fizzBuzzProvider
      */
     public function testInput(int $number, string $expected)
