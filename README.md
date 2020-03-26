@@ -6,10 +6,16 @@ Using the opportunity to practice TDD, adhere to standards & flex new muscles wi
 ## Katas Completed
 - [FizzBuzz](src/FizzBuzzKata)
 
+## Tests
+**Test Everything ([PHPUnit](https://phpunit.de))**
 
-#### Test Everything ([PHPUnit](https://phpunit.de))
 `./vendor/bin/phpunit`
-#### Run Mutation Tests ([Infection](https://infection.github.io/))
+
+**Run Mutation Tests ([Infection](https://infection.github.io/))**
+
 `./vendor/bin/infection`
-#### Run Static Analysis ([Psalm](https://psalm.dev/))
+
+**Run Static Analysis ([Psalm](https://psalm.dev/))**
+
 `./vendor/bin/psalm`
+
