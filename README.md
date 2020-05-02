@@ -11,7 +11,7 @@ Using the opportunity to practice TDD, adhere to standards & flex new muscles wi
 - [GildedRose](src/GildedRoseKata)
 
 ## Tests
-**Test Everything ([PHPUnit](https://phpunit.de))**
+**Run PHPUnit On Everything ([PHPUnit](https://phpunit.de))**
 
 `./vendor/bin/phpunit`
 
