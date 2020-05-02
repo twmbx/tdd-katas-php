@@ -1,4 +1,7 @@
 # Katas in PHP with TDD
+
+![PHPUnit, Infection & Psalm Tests](https://github.com/twmbx/tdd-katas-php/workflows/PHPUnit,%20Infection%20&%20Psalm%20Tests/badge.svg?branch=master)
+
 Personal practice with Katas.
 
 Using the opportunity to practice TDD, adhere to standards & flex new muscles with mutation testing and static analysis.
